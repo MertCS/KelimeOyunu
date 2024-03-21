@@ -41,3 +41,8 @@ To modify questions and answers, the "questions" array and the "answers" array c
 - The role of the contestant is to guess the right answer for every question in the given time frame. If they are stuck, they can ask for a letter to be revealed within the answer to get a hint. For each letter revealed, 100 points are reduced from their score.
 
 ### Screenshots
+<img width="1512" alt="Screenshot 2024-03-21 at 15 57 16" src="https://github.com/MertCS/KelimeOyunu/assets/91367755/2123becd-1272-4a12-af74-3162def7fc9b">
+<img width="1512" alt="Screenshot 2024-03-21 at 15 57 59" src="https://github.com/MertCS/KelimeOyunu/assets/91367755/bcce4951-5c2d-4261-8f9a-fe4c35f804b3">
+<img width="1512" alt="Screenshot 2024-03-21 at 15 59 25" src="https://github.com/MertCS/KelimeOyunu/assets/91367755/0c64b45c-b525-4422-924e-4712146995ee">
+<img width="1512" alt="Screenshot 2024-03-21 at 16 01 30" src="https://github.com/MertCS/KelimeOyunu/assets/91367755/19c2e9df-2420-4196-9348-35046dc794c9">
+
