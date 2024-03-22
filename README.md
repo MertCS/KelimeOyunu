@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kelime Oyunu is a simple game where a group of friends can come together to compete with their grammar knowledge.
+Inspired by the popular turkish tv show, Kelime Oyunu is a simple game where a group of friends can come together to compete with their grammar knowledge.
 
 ## Features
 
@@ -22,7 +22,7 @@ Kelime Oyunu is a simple game where a group of friends can come together to comp
    ```bash
    git clone https://github.com/MertCS/KelimeOyunu
 
-2. Open the folder 'Story Saver' and run 'main.py'
+2. Open the folder 'KelimeOyunu' and run 'main.py'
    ```bash
    python main.py
 
